@@ -1,1 +1,1 @@
-Moving on from TDDing javascript functions to classes.
+Moving on from TDDing functions to classes in Javascript.
