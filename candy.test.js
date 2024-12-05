@@ -5,6 +5,7 @@ describe('searchCandies', () => {
         expect(searchCandies('Ma', 10)).toEqual(['Mars', 'Maltesers']);
     });
 });
+
 describe('searchCandies', () => {
     it('returns Mars, Maltesers when filter by price 10 and prefix "ma"', () => {
         expect(searchCandies('ma', 10)).toEqual(['Mars', 'Maltesers']);
